@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Google_Location_Tracker</string>
+    <string name="enter">Enter</string>
+    <string name="about_us">About Us</string>
+    <string name="jerry_yu">Jerry Yu</string>
+    <string name="google">Go to Google</string>
+    <string name="facebook">Go to Facebook</string>
+    <string name="linkedin">Go to LinkedIn</string>
+    <string name="twitter">Go to Twitter</string>
+    <string name="about">This app was created on July 4th 2018 by Jerry Yu \n
+        It is rudimentary app that illustrates the ability for \n
+        Google Maps to track the location of a user</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
